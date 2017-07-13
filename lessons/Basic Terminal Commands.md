@@ -18,6 +18,8 @@
 
 #### Python Specific
 
+`python3 -m venv env` Creates a new virtual environment (names **env** in this example) in the current directory
+
 `source env/bin/activate` - activates the virtual environment named `env` of the current working directory.
 
 `deactivate` - deactivates the virtual environment and returns the default `python`.
